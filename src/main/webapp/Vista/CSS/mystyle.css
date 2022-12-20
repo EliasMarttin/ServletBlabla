@@ -1,0 +1,45 @@
+
+#tituloMain,#tituloOferta {
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
+#div1, #div3 {
+    margin: auto;
+    width: 80%;
+    height: 200px;
+    padding: 10px;
+}
+#subtituloMain {
+  text-align: center;
+}
+
+#divlistadoMain{
+    padding-top: 25px  ;
+    line-height: 150%;
+    margin: 0 auto;
+    width: 200px;
+    height: 100px;
+
+}
+/*
+Estilo de la segunda vista
+*/
+
+#table {
+    margin: 0 auto;
+}
+#labelEstándar,#labelPremium{
+    font-weight: normal;
+}
+#botónEnviarSecond {
+    margin: 10px;
+    text-align: center;
+}
+
+#tdCuenta,#tdCodcli,#tdOrigen,#tdFecha,#tdPrecio,tdDestino,#tdPlazas,#tdDestino {
+    font-weight:bold;
+    background-color: #8cec98;
+}
+
+
